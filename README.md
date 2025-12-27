@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I’m Vivek Anand
 
-<!--
-**VivekAnand-5656/VivekAnand-5656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer | JavaScript | HTML | CSS
 
-Here are some ideas to get you started:
+I build responsive, user-friendly web applications and real-world JavaScript projects.
+Focused on clean UI, logic building, and practical development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack
+
+HTML • CSS • Tailwind CSS • JavaScript • Git • GitHub
+Java & Spring Boot (Learning)
+
+📌 Projects
+
+Student Management System (CRUD, localStorage)
+
+Shopping Cart (Vanilla JS)
+
+Music Streaming Web App (API + Audio)
+
+Education Portal Website
+
+🎯 Currently
+
+Improving JavaScript skills & preparing for frontend developer roles.
