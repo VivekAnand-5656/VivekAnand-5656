@@ -1,25 +1,30 @@
 👋 Hi, I’m Vivek Anand
 
-Frontend Developer | JavaScript | HTML | CSS | React | Tailwind
+Full Stack Developer | React | JavaScript | FastAPI | PostgreSQL
 
-I build responsive, user-friendly web applications and real-world JavaScript projects.
-Focused on clean UI, logic building, and practical development.
+I build responsive, scalable web applications from frontend UI to backend APIs.
+Focused on clean design, strong logic, and real-world full-stack projects.
 
 🛠 Tech Stack
 
-HTML • CSS • Tailwind CSS • JavaScript • React • Git • GitHub
-Java & Spring Boot (Learning) • MySQL
+Frontend:
+HTML • CSS • Tailwind CSS • JavaScript • React
+
+Backend:
+Python • FastAPI • REST APIs • Authentication • CRUD APIs
+
+Database & Tools:
+PostgreSQL • Git • GitHub
 
 📌 Projects
 
-Student Management System (CRUD, localStorage)
-
-Shopping Cart (Vanilla JS)
-
-Music Streaming Web App (API + Audio)
-
-Education Portal Website
+• Ecommerce Website —  Full Carts System Buy and add to cart
+• Student Management System — Full CRUD with LocalStorage
+• Shopping Cart — Vanilla JS cart logic + state management
+• Music Streaming Web App — API integration + audio player
+• Education Portal — Multi-page responsive website
+• FastAPI Backend APIs — Authentication, Posts, Database integration (learning & building)
 
 🎯 Currently
 
-Improving JavaScript skills &  for frontend developer roles and focusing on backend level .
+Building full-stack projects using React + FastAPI + PostgreSQL, strengthening backend fundamentals, and preparing for Full Stack Developer roles.
