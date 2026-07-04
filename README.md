@@ -1,29 +1,35 @@
-👋 Hi, I’m Vivek Anand
+### 👋 Hi, I'm Vivek Anand
+**Full Stack Developer | React.js | JavaScript | Python | FastAPI | MongoDB**
 
-Full Stack Developer | React | JavaScript | FastAPI | MongoDB
+I build responsive, scalable full-stack web applications — from frontend UI to backend REST APIs.
+Focused on clean architecture, secure authentication, and real-world project execution.
 
-I build responsive, scalable web applications from frontend UI to backend APIs.
-Focused on clean design, strong logic, and real-world full-stack projects.
+---
 
-🛠 Tech Stack
+### 🛠 Tech Stack
 
-Frontend:
-HTML • CSS • Tailwind CSS • JavaScript • React
+**Frontend:**
+HTML5 • CSS3 • JavaScript • React.js • Tailwind CSS • Context API
 
-Backend:
-Python • FastAPI • REST APIs • Authentication • CRUD APIs
+**Backend:**
+Python • FastAPI • REST APIs • JWT Authentication • Role-Based Access Control (RBAC) • Swagger UI
 
-Database & Tools:
-PostgreSQL • MongoDB • Git • GitHub
+**Database & Tools:**
+MongoDB • Motor (Async Driver) • Git • GitHub • Cloudinary • Render • Vercel
 
-📌 Projects
+---
 
-• Ecommerce Website —  Full Carts System Buy and add to cart
-• Social Media Web Application - Full CRUD system with atlas
-• Student Management System — Full CRUD with LocalStorage
-• Shopping Cart — Vanilla JS cart logic + state management
-• Music Streaming Web App — API integration + audio player
-• Education Portal — Multi-page responsive website
-• FastAPI Backend APIs — Authentication, Posts, Database integration (learning & building)
+### 📌 Projects
 
- 
+**🔹 Job Portal**
+Full-stack job portal connecting recruiters and job seekers with role-based access control. Recruiters post and manage job listings; job seekers search, filter, and apply. Built with JWT authentication and protected routes.
+`React.js` `FastAPI` `MongoDB` `JWT` `Axios` `Tailwind CSS`
+
+**🔹 Grocery Kirana Store — E-Commerce Platform**
+Full-stack grocery e-commerce platform with separate customer and seller dashboards. Includes product CRUD, cart and order management, seller analytics, and Cloudinary-powered image uploads. Backend deployed on Render.
+`React.js` `FastAPI` `MongoDB` `Motor` `Cloudinary` `JWT`
+
+---
+
+### 📫 Reach Me
+📧 va691187@gmail.com
